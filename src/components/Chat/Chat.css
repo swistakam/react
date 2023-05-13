@@ -1,0 +1,21 @@
+.icons{
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 2;
+}
+
+.chat{
+    width: 30vh;
+    height: 30vh;
+    border-radius: 10%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    z-index: 2;
+}
